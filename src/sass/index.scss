@@ -1,3 +1,17 @@
 @import './base/common';
 @import './components/form';
 @import './components/imageObject';
+
+.load-more {
+  width: 150px;
+  height: 40px;
+  background-color: blue;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+  border: none;
+}
